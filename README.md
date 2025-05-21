@@ -13,7 +13,7 @@ The world has always held more beauty than we realize.😊**
 
 ##### Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,java,html,css,typescript,javascript,react,tailwind,nodejs,express,markdown&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,html,css&theme=dark)](https://skillicons.dev)
 
 ##### Tools
 
@@ -25,7 +25,7 @@ The world has always held more beauty than we realize.😊**
 
 #### Learning
 
-[![Learning](https://skillicons.dev/icons?i=nextjs,postgres,vue,go,linux,swift,bash,gitlab,php,lua&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=nextjs,postgres,vue,go,typescript,javascript,react,tailwind,nodejs,express,markdown,linux,swift,bash,gitlab,php,lua&theme=dark)](https://skillicons.dev)
 
 #### Social Media
 
