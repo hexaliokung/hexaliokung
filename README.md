@@ -12,7 +12,7 @@
 [![Language](https://skillicons.dev/icons?i=go,python,typescript,javascript,css,html&theme=dark)](https://skillicons.dev)
 
 #### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark)](https://skillicons.dev)
 
 #### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,elysia&theme=dark)](https://skillicons.dev)
@@ -24,16 +24,13 @@
 
 [![Devployment](https://skillicons.dev/icons?i=vercel,aws&theme=dark)](https://skillicons.dev)
 
-#### Services
-[![Services](https://skillicons.dev/icons?i=vercel,aws&theme=dark)](https://skillicons.dev)
-
 #### Learning
 
-[![Learning](https://skillicons.dev/icons?i=nextjs,postgres,vue,go,typescript,javascript,react,tailwind,nodejs,express,markdown,linux,swift,bash,gitlab,php,lua&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=vue,markdown,linux,flutter,bash,php,lua&theme=dark)](https://skillicons.dev)
 
 #### Social Media
 
-[![Social Media](https://skillicons.dev/icons?i=discord,instagram&theme=dark)](https://skillicons.dev)
+[![Social Media](https://skillicons.dev/icons?i=discord,instagram,facebook,x&theme=dark)](https://skillicons.dev)
 
 ### Stats
 
