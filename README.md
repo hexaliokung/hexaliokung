@@ -26,7 +26,7 @@
 
 #### Learning
 
-[![Learning](https://skillicons.dev/icons?i=vue,markdown,linux,flutter,bash,php,lua&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=linux,flutter,bash,lua&theme=dark)](https://skillicons.dev)
 
 #### Social Media
 
