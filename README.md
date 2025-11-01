@@ -30,7 +30,7 @@
 
 #### Social Media
 
-[![Social Media](https://skillicons.dev/icons?i=discord,instagram,facebook,x&theme=dark)](https://skillicons.dev)
+[![Social Media](https://skillicons.dev/icons?i=discord,instagram&theme=dark)](https://skillicons.dev)
 
 ### Stats
 
