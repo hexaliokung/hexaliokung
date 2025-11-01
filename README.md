@@ -18,9 +18,11 @@
 #### DB
 [![Database](https://skillicons.dev/icons?i=supabase,postgres,mysql&theme=dark)](https://skillicons.dev)
 
-##### Services
+#### Deployment 
 
-[![Services](https://skillicons.dev/icons?i=aws,azure&theme=dark)](https://skillicons.dev)
+[![Services](https://skillicons.dev/icons?i=vercel,aws,azure&theme=dark)](https://skillicons.dev)
+
+##### Services
 
 #### Learning
 
