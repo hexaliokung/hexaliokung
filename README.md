@@ -13,9 +13,7 @@
 
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs&theme=dark)](https://skillicons.dev)
 
-##### Tools
-
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,eclipse,pycharm,postman,prisma,mongodb,notion,obsidian,figma&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=go,python,fastapi,nodejs,express,elysia&theme=dark)](https://skillicons.dev)
 
 #### DB
 [![Database](https://skillicons.dev/icons?i=supabase,postgres,mysql&theme=dark)](https://skillicons.dev)
