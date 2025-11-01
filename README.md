@@ -17,14 +17,15 @@
 #### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,elysia&theme=dark)](https://skillicons.dev)
 
-#### DB
-[![Database](https://skillicons.dev/icons?i=supabase,postgres,mysql&theme=dark)](https://skillicons.dev)
+#### Database
+[![Database](https://skillicons.dev/icons?i=supabase,postgres,mysql.mongodb&theme=dark)](https://skillicons.dev)
 
 #### Deployment 
 
-[![Services](https://skillicons.dev/icons?i=vercel,aws,azure&theme=dark)](https://skillicons.dev)
+[![Devployment](https://skillicons.dev/icons?i=vercel,aws&theme=dark)](https://skillicons.dev)
 
-##### Services
+#### Services
+[![Services](https://skillicons.dev/icons?i=vercel,aws&theme=dark)](https://skillicons.dev)
 
 #### Learning
 
