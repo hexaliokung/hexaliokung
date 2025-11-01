@@ -7,6 +7,10 @@
 - Fullstack Web Development
 - Application Dev
 
+### Contact
+https://www.instagram.com/thatphongsaikham
+https://www.facebook.com/thatphongsaikham
+
 ### Languages and Tools
 #### Language
 [![Language](https://skillicons.dev/icons?i=go,python,typescript,javascript,css,html&theme=dark)](https://skillicons.dev)
@@ -24,13 +28,9 @@
 
 [![Devployment](https://skillicons.dev/icons?i=vercel,aws&theme=dark)](https://skillicons.dev)
 
-#### Learning
+#### For next
 
 [![Learning](https://skillicons.dev/icons?i=linux,flutter,bash,lua&theme=dark)](https://skillicons.dev)
-
-#### Social Media
-
-[![Social Media](https://skillicons.dev/icons?i=discord,instagram&theme=dark)](https://skillicons.dev)
 
 ### Stats
 
