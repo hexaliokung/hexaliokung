@@ -8,12 +8,14 @@
 - Application Dev
 
 ### Languages and Tools
+#### Language
+[![Language](https://skillicons.dev/icons?i=go,python,typescript,javascript,css,html&theme=dark)](https://skillicons.dev)
 
 #### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs&theme=dark)](https://skillicons.dev)
 
 #### Backend
-[![Backend](https://skillicons.dev/icons?i=go,python,fastapi,nodejs,express,elysia&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,elysia&theme=dark)](https://skillicons.dev)
 
 #### DB
 [![Database](https://skillicons.dev/icons?i=supabase,postgres,mysql&theme=dark)](https://skillicons.dev)
