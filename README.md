@@ -8,7 +8,7 @@
 - Application Dev
 
 ### Contact
-https://www.instagram.com/thatphongsaikham\n
+https://www.instagram.com/thatphongsaikham
 https://www.facebook.com/thatphongsaikham
 
 ### Languages and Tools
