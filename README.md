@@ -1,19 +1,17 @@
 # Thatphong Saikham
 
-**Walk through each day with simplicity, honesty, and gentle feelings.  
-The world has always held more beauty than we realize.😊**
+**I'm Lazy! that why I like to make life easier, Let make world Happy with High yeild return.**
 
 ### Interested in
-
-- Data Science
-- Fullstack Development
-- Linux
+- StartUp
+- Fullstack Web Development
+- Application Dev
 
 ### Languages and Tools
 
-##### Languages
+#### Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,java,html,css&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs&theme=dark)](https://skillicons.dev)
 
 ##### Tools
 
