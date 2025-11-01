@@ -18,7 +18,7 @@
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,elysia&theme=dark)](https://skillicons.dev)
 
 #### Database
-[![Database](https://skillicons.dev/icons?i=supabase,firebase.postgres,mysql.mongodb&theme=dark)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=supabase,firebase,postgres,mysql.mongodb&theme=dark)](https://skillicons.dev)
 
 #### Deployment 
 
