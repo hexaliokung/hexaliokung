@@ -9,10 +9,10 @@
 
 ### Languages and Tools
 
-#### Languages
-
+#### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs&theme=dark)](https://skillicons.dev)
 
+#### Backend
 [![Backend](https://skillicons.dev/icons?i=go,python,fastapi,nodejs,express,elysia&theme=dark)](https://skillicons.dev)
 
 #### DB
