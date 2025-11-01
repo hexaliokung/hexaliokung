@@ -15,7 +15,7 @@ https://www.facebook.com/thatphongsaikham
 
 ### Languages and Tools
 #### Language
-[![Language](https://skillicons.dev/icons?i=go,python,typescript,javascript,css,html&theme=dark)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=go,python,java,typescript,javascript,css,html&theme=dark)](https://skillicons.dev)
 
 #### Frontend
 [![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark)](https://skillicons.dev)
