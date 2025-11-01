@@ -20,7 +20,7 @@ The world has always held more beauty than we realize.😊**
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,eclipse,pycharm,postman,prisma,mysql,mongodb,notion,obsidian,figma&theme=dark)](https://skillicons.dev)
 
 #### DB
-[![Database](https://skillicons.dev/icons?i=supabase&theme=dark)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=supabase,postgres,mysql&theme=dark)](https://skillicons.dev)
 
 ##### Services
 
